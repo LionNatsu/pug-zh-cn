@@ -218,7 +218,7 @@ a#main-link
 div#foo(data-bar="foo")&attributes({'data-foo': 'bar'})
 ```
 
-这个对象不一定必须是一个字面值，它同样也可以是一个包含值的对象（参见 [Mixin 属性][Mixin Attributes]）。
+这个对象不一定必须是一个字面值，它同样也可以是一个包含值的对象（参见 [Mixin 属性][mixin attributes]）。
 
 ```pug-preview
 - var attributes = {};
