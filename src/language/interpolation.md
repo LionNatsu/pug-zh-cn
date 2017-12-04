@@ -92,3 +92,7 @@ p
 p.
   如果用了嵌入，在 #[strong strong] 和 #[em em] 旁的空格就会让我舒服多了。
 ```
+
+阅读文档“纯文本”页中关于[空格控制][whitespace control]的章节更深入地探讨本话题。
+
+[whitespace control]: plain-text.html#whitespace-control
